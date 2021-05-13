@@ -2,8 +2,6 @@
 #include "CppUnitTest.h"
 #include "..\..\OOP_1\program.h"
 #include "..\..\OOP_1\program.cpp"
-#include "D:\git\L1_OOP\L1_OOP\OOP_1\program.h"
-#include "D:\git\L1_OOP\L1_OOP\OOP_1\program.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 using namespace type_plants;
